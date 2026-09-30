@@ -1,0 +1,6 @@
+entorno/
+__pycache__/
+*.pyc
+.DS_Store
+bitacora.json
+.vscode/
